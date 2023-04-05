@@ -1,0 +1,19 @@
+.s1:hover~div {
+    color: gold;
+}
+
+.s2:hover~div {
+    color: gold;
+}
+
+.s3:hover~div {
+    color: gold;
+}
+
+.s4:hover~div {
+    color: gold;
+}
+
+.s5:hover~div {
+    color: gold;
+}
